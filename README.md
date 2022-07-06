@@ -1,5 +1,8 @@
 # Webstrates-History
 
+All implemented code can be found as fragments in the index.html file of each version.
+
+
 v1 : running list
 
 https://webstrates.r2.enst.fr/helpless-bird-64/
